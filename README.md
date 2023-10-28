@@ -1,2 +1,2 @@
-# Link [https://infitsune.github.io]
+# [Link](https://infitsune.github.io)
  My webpage OMG
